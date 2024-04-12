@@ -1,0 +1,12 @@
+{
+  "name": "online-book-library",
+  "version": "1.0.0",
+  "description": "Online Book Library Single Page Application",
+  "main": "index.html",
+  "scripts": {
+    "start": "node ./lib/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
